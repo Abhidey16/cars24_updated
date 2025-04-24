@@ -5,6 +5,7 @@ streamlit
 pandas
 numpy
 joblib
+category_encoders
 
 # Machine Learning
 scikit-learn
