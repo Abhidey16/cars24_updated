@@ -1,0 +1,14 @@
+# requirements.txt
+
+# Core libraries
+streamlit
+pandas
+numpy
+joblib
+
+# Machine Learning
+scikit-learn
+
+# Deep Learning
+tensorflow
+keras
